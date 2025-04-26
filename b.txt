@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Updated content for b.txt on car branch
+=======
+Updated content for b.txt on bike branch
+>>>>>>> bike
